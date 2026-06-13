@@ -37,8 +37,8 @@ export default function App() {
              </h1>
              <p className="text-xs font-semibold text-neutral-500 uppercase tracking-[0.2em] mt-6 text-center leading-relaxed">
                BEWERBUNG ALS PRAKTIKANTIN<br/>
-               IN DER REDAKTION<br/>
-               AUSLANDSJOURNAL
+               IN DER HAUPTREDAKTION<br/>
+               KULTUR
              </p>
           </div>
 
@@ -57,8 +57,6 @@ export default function App() {
                 <SectionHeader icon={<FileText className="w-5 h-5 text-[#FF6600]" />} title="Profil" />
                 <p className="text-neutral-600 text-sm leading-relaxed">
                   Ich bin eine kreative, engagierte und teamfähige Studentin mit großem Interesse an journalistischer Arbeit und Kommunikationsarbeit sowie -strategien. Ich habe eine Leidenschaft für Medien, Recherchearbeit und für die Erstellung von Beiträgen.
-                  <br/><br/>
-                  Durch meine Begeisterung am Reisen möchte ich nicht nur die Welt sehen, sondern auch deren kulturellen sowie politischen Hintergründe besser kennenlernen. Zudem nutze ich meine Freizeit gerne mit dem Lesen von Romanen.
                 </p>
              </Section>
 
@@ -170,8 +168,8 @@ export default function App() {
              </h1>
              <p className="text-xs font-semibold text-neutral-500 uppercase tracking-[0.2em] mt-6 text-center leading-relaxed">
                BEWERBUNG ALS PRAKTIKANTIN<br/>
-               IN DER REDAKTION<br/>
-               AUSLANDSJOURNAL
+               IN DER HAUPTREDAKTION<br/>
+               KULTUR
              </p>
           </div>
 
@@ -213,17 +211,17 @@ export default function App() {
               </p>
 
               <p className="text-right text-neutral-500">
-                Wörrstadt, den 18. April 2026
+                Wörrstadt, den 13. Juni 2026
               </p>
 
               <p className="font-bold text-neutral-900 pt-2">
-                Bewerbung als Praktikantin in der Redaktion auslandsjournal
+                Bewerbung als Praktikantin in der Hauptredaktion Kultur des ZDF
               </p>
 
-              <p className="pt-2">Sehr geehrte Frau Zinke,</p>
+              <p className="pt-2">Sehr geehrte Damen und Herren,</p>
 
               <p>
-                eine große Leidenschaft für mich ist das Reisen und das damit verbundene Kennenlernen verschiedener politischer als auch kultureller Hintergründe. Die Möglichkeit, komplexe globale Zusammenhänge verständlich und nah an den Menschen heranzutragen, fasziniert mich sehr. Daher möchte ich mein großes Interesse für internationale Themen und meine redaktionelle Lernbereitschaft gerne im Rahmen eines Praktikums in Ihrer Redaktion auslandsjournal beim ZDF einbringen. Eine Teilnahme ist in den beiden vorgegebenen Zeiträumen vom 31.08. - 09.10.2026 (Termin 2) und vom 12.10. - 04.12.2026 (Termin 3) für mich möglich.
+                eine große Leidenschaft für mich ist es, Kultur in all ihren Formen zu erleben und zu verstehen. Was auf Social Media funktioniert und warum es die Menschen bewegt, interessiert und fasziniert mich sehr. Die Verbindung aus journalistischem Qualitätsanspruch, kultureller Thementiefe und der Dynamik digitaler Plattformen ist für mich besonders reizvoll. Daher möchte ich mein großes Interesse für aktuelle Trends und kulturelle sowie gesellschaftlich relevante Themen gerne im Rahmen eines Praktikums in Ihrer Hauptredaktion Kultur des ZDF einbringen.
               </p>
 
               <p>
@@ -231,7 +229,7 @@ export default function App() {
               </p>
 
               <p>
-                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum im Rahmen der Redaktion auslandsjournal als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische redaktionelle Erfahrung im ZDF zu ergänzen und zu vertiefen. 
+                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum im Rahmen der Hauptredaktion Kultur als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische redaktionelle Erfahrung im ZDF zu ergänzen und zu vertiefen. 
               </p>
 
               <p>
