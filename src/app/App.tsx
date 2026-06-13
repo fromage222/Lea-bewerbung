@@ -36,9 +36,8 @@ export default function App() {
                LEA <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#00b5b5] via-[#1d70b8] to-[#8000C8] inline-block">KOCH</span>
              </h1>
              <p className="text-xs font-semibold text-neutral-500 uppercase tracking-[0.2em] mt-6 text-center leading-relaxed">
-               BEWERBUNG ALS PRAKTIKANTIN<br/>
-               IN DER REDAKTION<br/>
-               MERKURIST
+               Bewerbung als Praktikantin<br/>
+               in der Merkurist-Redaktion Mainz
              </p>
           </div>
 
@@ -167,9 +166,8 @@ export default function App() {
                LEA <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#00b5b5] via-[#1d70b8] to-[#8000C8] inline-block">KOCH</span>
              </h1>
              <p className="text-xs font-semibold text-neutral-500 uppercase tracking-[0.2em] mt-6 text-center leading-relaxed">
-               BEWERBUNG ALS PRAKTIKANTIN<br/>
-               IN DER REDAKTION<br/>
-               MERKURIST
+               Bewerbung als Praktikantin<br/>
+               in der Merkurist-Redaktion Mainz
              </p>
           </div>
 
