@@ -1,0 +1,57 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 0;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    box-sizing: border-box !important;
+    box-shadow: none !important;
+  }
+
+  html {
+    zoom: 0.75 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: white !important;
+  }
+
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: white !important;
+  }
+
+  .min-h-screen {
+    min-height: unset !important;
+    padding: 0 !important;
+    background: white !important;
+  }
+
+  .rounded-sm { border-radius: 0 !important; }
+
+  .print\:hidden { display: none !important; }
+
+  /* Zweispalten-Layout und volle Breite erzwingen */
+  .mx-auto        { margin-left: 0 !important; }
+  .max-w-5xl      { max-width: 100% !important; width: 100% !important; }
+  .md\:flex-row   { flex-direction: row !important; }
+  .md\:w-\[35\%\] { width: 35% !important; }
+  .md\:w-\[65\%\] { width: 65% !important; }
+
+  /* Keine Seitenumbrüche */
+  * {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+  html, body, #root, .min-h-screen, .max-w-5xl {
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+}
