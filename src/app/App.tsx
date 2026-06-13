@@ -90,7 +90,7 @@ export default function App() {
             <img 
               src={merkuristLogo} 
               alt="Merkurist Logo" 
-              className="w-24 md:w-28 h-auto object-contain mix-blend-multiply opacity-90" 
+              className="w-14 md:w-16 h-auto object-contain mix-blend-multiply opacity-90" 
             />
           </div>
 
@@ -196,7 +196,7 @@ export default function App() {
             <img 
               src={merkuristLogo} 
               alt="Merkurist Logo" 
-              className="w-24 md:w-28 h-auto object-contain mix-blend-multiply opacity-90" 
+              className="w-14 md:w-16 h-auto object-contain mix-blend-multiply opacity-90" 
             />
           </div>
 
