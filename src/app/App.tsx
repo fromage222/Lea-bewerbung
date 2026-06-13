@@ -37,8 +37,8 @@ export default function App() {
              </h1>
              <p className="text-xs font-semibold text-neutral-500 uppercase tracking-[0.2em] mt-6 text-center leading-relaxed">
                BEWERBUNG ALS PRAKTIKANTIN<br/>
-               IN DER HAUPTREDAKTION<br/>
-               KULTUR
+               IN DER REDAKTION<br/>
+               DOKUMENTATION
              </p>
           </div>
 
@@ -168,8 +168,8 @@ export default function App() {
              </h1>
              <p className="text-xs font-semibold text-neutral-500 uppercase tracking-[0.2em] mt-6 text-center leading-relaxed">
                BEWERBUNG ALS PRAKTIKANTIN<br/>
-               IN DER HAUPTREDAKTION<br/>
-               KULTUR
+               IN DER REDAKTION<br/>
+               DOKUMENTATION
              </p>
           </div>
 
@@ -215,13 +215,13 @@ export default function App() {
               </p>
 
               <p className="font-bold text-neutral-900 pt-2">
-                Bewerbung als Praktikantin in der Hauptredaktion Kultur des ZDF
+                Bewerbung als Praktikantin in der Redaktion Dokumentation
               </p>
 
               <p className="pt-2">Sehr geehrte Damen und Herren,</p>
 
               <p>
-                eine große Leidenschaft für mich ist es, Kultur in all ihren Formen zu erleben und zu verstehen. Was auf Social Media funktioniert und warum es die Menschen bewegt, interessiert und fasziniert mich sehr. Die Verbindung aus journalistischem Qualitätsanspruch, kultureller Thementiefe und der Dynamik digitaler Plattformen ist für mich besonders reizvoll. Daher möchte ich mein großes Interesse für aktuelle Trends und kulturelle sowie gesellschaftlich relevante Themen gerne im Rahmen eines Praktikums in Ihrer Hauptredaktion Kultur des ZDF einbringen.
+                eine große Leidenschaft für mich ist es, Geschichten durch Bücher, Podcasts oder Reisen kennenzulernen. Was hinter gesellschaftlich relevanten Themen steckt und wie man Komplexes verständlich aufbereitet, fasziniert mich dabei stark. Die Verbindung aus investigativem Journalismus, sorgfältiger Recherche und der visuellen Stärke des Dokumentationsformats macht die Redaktion Dokumentation des ZDF für mich besonders reizvoll. Daher möchte ich mein Interesse für innen- und außenpolitische Themen sowie mein Gespür für Relevanz und Sprache gerne im Rahmen eines Praktikums in Ihrer Redaktion einbringen und erweitern.
               </p>
 
               <p>
@@ -229,7 +229,7 @@ export default function App() {
               </p>
 
               <p>
-                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum im Rahmen der Hauptredaktion Kultur als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische redaktionelle Erfahrung im ZDF zu ergänzen und zu vertiefen. 
+                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum im Rahmen der Redaktion Dokumentation als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische redaktionelle Erfahrung im ZDF zu ergänzen und zu vertiefen. 
               </p>
 
               <p>
