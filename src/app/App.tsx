@@ -37,8 +37,7 @@ export default function App() {
              </h1>
              <p className="text-xs font-semibold text-neutral-500 uppercase tracking-[0.2em] mt-6 text-center leading-relaxed">
                BEWERBUNG ALS PRAKTIKANTIN<br/>
-               IN DER REDAKTION<br/>
-               DOKUMENTATION
+               IN DER LANDESSCHAU
              </p>
           </div>
 
@@ -168,8 +167,7 @@ export default function App() {
              </h1>
              <p className="text-xs font-semibold text-neutral-500 uppercase tracking-[0.2em] mt-6 text-center leading-relaxed">
                BEWERBUNG ALS PRAKTIKANTIN<br/>
-               IN DER REDAKTION<br/>
-               DOKUMENTATION
+               IN DER LANDESSCHAU
              </p>
           </div>
 
@@ -215,13 +213,13 @@ export default function App() {
               </p>
 
               <p className="font-bold text-neutral-900 pt-2">
-                Bewerbung als Praktikantin in der Redaktion Dokumentation
+                Bewerbung als Praktikantin in der Redaktion Landesschau
               </p>
 
               <p className="pt-2">Sehr geehrte Damen und Herren,</p>
 
               <p>
-                eine große Leidenschaft für mich ist es, Geschichten durch Bücher, Podcasts oder Reisen kennenzulernen. Was hinter gesellschaftlich relevanten Themen steckt und wie man Komplexes verständlich aufbereitet, fasziniert mich dabei stark. Die Verbindung aus investigativem Journalismus, sorgfältiger Recherche und der visuellen Stärke des Dokumentationsformats macht die Redaktion Dokumentation des ZDF für mich besonders reizvoll. Daher möchte ich mein Interesse für innen- und außenpolitische Themen sowie mein Gespür für Relevanz und Sprache gerne im Rahmen eines Praktikums in Ihrer Redaktion einbringen und erweitern.
+                eine große Leidenschaft für mich ist es, Geschichten durch Bücher, Podcasts oder Reisen kennenzulernen. Was hinter gesellschaftlich relevanten Themen steckt und wie man Komplexes verständlich aufbereitet, fasziniert mich dabei stark. Die Verbindung aus regionaler Berichterstattung, sorgfältiger Recherche und der visuellen Stärke des Magazins macht die Redaktion Landesschau des SWR für mich besonders reizvoll. Daher möchte ich mein Interesse für gesellschaftliche und regionale Themen sowie mein Gespür für Relevanz und Sprache gerne im Rahmen eines Praktikums in Ihrer Redaktion einbringen und erweitern.
               </p>
 
               <p>
@@ -229,7 +227,7 @@ export default function App() {
               </p>
 
               <p>
-                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum im Rahmen der Redaktion Dokumentation als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische redaktionelle Erfahrung im ZDF zu ergänzen und zu vertiefen. 
+                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum im Rahmen der Redaktion Landesschau als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische redaktionelle Erfahrung im SWR zu ergänzen und zu vertiefen. 
               </p>
 
               <p>
