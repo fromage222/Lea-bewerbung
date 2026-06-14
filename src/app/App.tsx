@@ -211,7 +211,7 @@ export default function App() {
               </p>
 
               <p className="text-right text-neutral-500">
-                Wörrstadt, den 13. Juni 2026
+                Wörrstadt, den 14. Juni 2026
               </p>
 
               <p className="font-bold text-neutral-900 pt-2">
