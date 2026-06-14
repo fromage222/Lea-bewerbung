@@ -221,7 +221,7 @@ export default function App() {
               <p className="pt-2">Sehr geehrte Damen und Herren,</p>
 
               <p>
-                eine große Leidenschaft für mich ist es, Geschichten durch Bücher, Podcasts oder Reisen kennenzulernen. Was hinter gesellschaftlich relevanten Themen steckt und wie man Komplexes verständlich aufbereitet, fasziniert mich dabei stark. Die Verbindung aus regionaler Qualitätsberichterstattung, crossmedialem Journalismus und der Nähe zu den Menschen in der Region Rhein-Main macht ein Praktikum in den Lokalredaktionen Rheinland-Pfalz der VRM für mich besonders reizvoll. Daher möchte ich mein Interesse für gesellschaftliche und regionale Themen sowie mein Gespür für Medien und Sprache gerne im Rahmen eines Praktikums in Ihrer Redaktion einbringen und erweitern.
+                eine große Leidenschaft für mich ist es, Geschichten zu finden, die es wert sind, erzählt zu werden. Als Publizistikstudentin mit einem ausgeprägten Gespür für Sprache und einem echten Interesse am Lokaljournalismus möchte ich genau dort ansetzen, wo Informationen auf Menschen treffen: in der Redaktion. Was mich an der VRM besonders anspricht, ist die Möglichkeit, von Anfang an aktiv mitzuwirken. Besonders die Möglichkeit, eigene Artikel zu verfassen, zu recherchieren und den redaktionellen Alltag hautnah kennenzulernen.
               </p>
 
               <p>
