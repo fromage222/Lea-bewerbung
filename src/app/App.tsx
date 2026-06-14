@@ -1,6 +1,6 @@
 import React from 'react';
 import { Mail, Phone, MapPin, Calendar, User, Globe, FileText, Download } from 'lucide-react';
-import vrmLogo from '../assets/vrm-logo.png';
+import mainz05Logo from '../assets/mainz05-logo.png';
 import profilbild from '../assets/profilbild.jpg';
 
 export default function App() {
@@ -85,12 +85,12 @@ export default function App() {
         {/* Rechte Spalte: Main Content */}
         <div className="w-full md:w-[65%] p-10 md:p-16 relative">
           
-          {/* VRM Logo Top Right */}
+          {/* Mainz 05 Logo Top Right */}
           <div className="absolute top-2 right-10 md:top-4 md:right-12 flex justify-end">
             <img 
-              src={vrmLogo} 
-              alt="VRM Logo" 
-              className="w-24 md:w-28 h-auto object-contain mix-blend-multiply opacity-90" 
+              src={mainz05Logo} 
+              alt="Mainz 05 Logo" 
+              className="w-16 md:w-20 h-auto object-contain mix-blend-multiply opacity-90" 
             />
           </div>
 
@@ -191,12 +191,12 @@ export default function App() {
         {/* Rechte Spalte: Main Content */}
         <div className="w-full md:w-[65%] p-10 md:p-16 relative">
           
-          {/* VRM Logo Top Right */}
+          {/* Mainz 05 Logo Top Right */}
           <div className="absolute top-2 right-10 md:top-4 md:right-12 flex justify-end">
             <img 
-              src={vrmLogo} 
-              alt="VRM Logo" 
-              className="w-24 md:w-28 h-auto object-contain mix-blend-multiply opacity-90" 
+              src={mainz05Logo} 
+              alt="Mainz 05 Logo" 
+              className="w-16 md:w-20 h-auto object-contain mix-blend-multiply opacity-90" 
             />
           </div>
 
