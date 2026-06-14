@@ -218,10 +218,10 @@ export default function App() {
                 Bewerbung als Praktikantin im Bereich Kommunikation & Medien
               </p>
 
-              <p className="pt-2">Sehr geehrte Damen und Herren,</p>
+              <p className="pt-2">Sehr geehrter Herr Steines,</p>
 
               <p>
-                eine große Leidenschaft für mich ist es, Geschichten zu finden, die es wert sind, erzählt zu werden. Als Publizistikstudentin mit einem ausgeprägten Gespür für Sprache und einer Begeisterung für professionelle Kommunikation möchte ich genau dort ansetzen, wo Emotionen und Informationen auf Menschen treffen: in der Kommunikations- und Medienarbeit. Was mich am 1. FSV Mainz 05 besonders anspricht, ist die Dynamik eines Profivereins und die Möglichkeit, die vielfältigen Kommunikationskanäle aktiv mitzugestalten, eigene Beiträge zu verfassen und den medienübergreifenden Alltag hautnah kennenzulernen.
+                eine große Leidenschaft für mich ist es, Kommunikation wirkungsvoll zu gestalten. Ob durch präzise Sprache, durchdachten Content oder strukturierte Medienarbeit. Die Verbindung aus strategischer Kommunikation und dem emotionalen Umfeld eines Bundesligavereins macht das Praktikum beim 1. FSV Mainz 05 für mich besonders reizvoll. Fußball begleitet mich seit meiner Kindheit durch mein familiäres Umfeld, und ich weiß, welche Begeisterung und Leidenschaft dieser Sport auslösen kann. Genau diese Energie möchte ich als Publizistikstudentin in die Kommunikations- und Medienarbeit der 05er einbringen.
               </p>
 
               <p>
