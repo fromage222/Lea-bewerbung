@@ -206,8 +206,8 @@ export default function App() {
             <div className="text-neutral-700 text-sm leading-relaxed space-y-5 print:text-[15px] print:leading-[1.9] print:space-y-8">
               <p>
                 <strong>1. FSV Mainz 05 e.V.</strong><br/>
-                Isaac-Fulda-Allee 5<br/>
-                55124 Mainz
+                Dr.-Martin-Luther-King-Weg 15<br/>
+                55122 Mainz
               </p>
 
               <p className="text-right text-neutral-500">
