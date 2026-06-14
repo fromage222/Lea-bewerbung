@@ -221,7 +221,7 @@ export default function App() {
               <p className="pt-2">Sehr geehrter Herr Steines,</p>
 
               <p>
-                eine große Leidenschaft für mich ist es, Kommunikation wirkungsvoll zu gestalten. Ob durch präzise Sprache, durchdachten Content oder strukturierte Medienarbeit. Die Verbindung aus strategischer Kommunikation und dem emotionalen Umfeld eines Bundesligavereins macht das Praktikum beim 1. FSV Mainz 05 für mich besonders reizvoll. Fußball begleitet mich seit meiner Kindheit durch mein familiäres Umfeld, und ich weiß, welche Begeisterung und Leidenschaft dieser Sport auslösen kann. Genau diese Energie möchte ich als Publizistikstudentin in die Kommunikations- und Medienarbeit der 05er einbringen.
+                eine große Leidenschaft für mich ist es, Kommunikation wirkungsvoll zu gestalten. Ob durch präzise Sprache, durchdachten Content oder strukturierte Medienarbeit. Die Verbindung aus strategischer Kommunikation und dem emotionalen Umfeld eines Bundesligavereins macht das Praktikum beim 1. FSV Mainz 05 für mich besonders reizvoll. Fußball begleitet mich seit meiner Kindheit durch mein familiäres Umfeld, und ich weiß, welche Begeisterung und Leidenschaft dieser Sport auslösen kann. Genau diese Energie möchte ich als Publizistikstudentin in die Kommunikations- und Medienarbeit der 05er einbringen. Für das Praktikum stehe ich in einem Zeitraum zwischen September 2026 und Februar 2027 für 6 bis 8 Wochen zur Verfügung.
               </p>
 
               <p>
