@@ -1,6 +1,6 @@
 import React from 'react';
 import { Mail, Phone, MapPin, Calendar, User, Globe, FileText, Download } from 'lucide-react';
-import mainz05Logo from '../assets/mainz05-logo.png';
+import antenneMainzLogo from '../assets/antenne-mainz-logo.png';
 import profilbild from '../assets/profilbild.jpg';
 
 export default function App() {
@@ -9,12 +9,12 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-neutral-100 py-12 px-4 sm:px-6 lg:px-8 print:p-0 print:bg-white font-sans selection:bg-[#C3141E] selection:text-white">
+    <div className="min-h-screen bg-neutral-100 py-12 px-4 sm:px-6 lg:px-8 print:p-0 print:bg-white font-sans selection:bg-[#e00040] selection:text-white">
       {/* PDF Export Button */}
       <div className="max-w-5xl mx-auto mb-4 flex justify-end print:hidden">
         <button
           onClick={exportToPDF}
-          className="flex items-center gap-2 bg-gradient-to-r from-[#ED1C24] to-[#C3141E] hover:from-[#d9121a] hover:to-[#a80f17] text-white font-semibold text-sm px-5 py-2.5 rounded-full shadow-lg transition-all duration-200 hover:shadow-xl hover:scale-105 active:scale-95"
+          className="flex items-center gap-2 bg-gradient-to-r from-[#FF1E60] to-[#e00040] hover:from-[#ff1e60] hover:to-[#b00030] text-white font-semibold text-sm px-5 py-2.5 rounded-full shadow-lg transition-all duration-200 hover:shadow-xl hover:scale-105 active:scale-95"
         >
           <Download className="w-4 h-4" />
           <span>Als PDF exportieren</span>
@@ -25,7 +25,7 @@ export default function App() {
         {/* Linke Spalte: Sidebar */}
         <div className="w-full md:w-[35%] bg-neutral-50 p-10 border-r border-neutral-200 flex flex-col relative print:after:content-[''] print:after:absolute print:after:top-full print:after:left-0 print:after:-right-[1px] print:after:h-[3000px] print:after:bg-neutral-50 print:after:border-r print:after:border-neutral-200 print:after:z-0">
           <div className="flex flex-col items-center mb-16">
-             <div className="w-48 h-48 rounded-full overflow-hidden mb-8 border-4 border-[#C3141E] shadow-lg">
+             <div className="w-48 h-48 rounded-full overflow-hidden mb-8 border-4 border-[#e00040] shadow-lg">
                 <img 
                   src={profilbild} 
                   alt="Lea Koch" 
@@ -33,18 +33,17 @@ export default function App() {
                 />
              </div>
              <h1 className="text-4xl font-extrabold text-neutral-900 tracking-tight text-center uppercase">
-               LEA <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#ED1C24] to-[#C3141E] inline-block">KOCH</span>
+               LEA <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#FF1E60] to-[#e00040] inline-block">KOCH</span>
              </h1>
              <p className="text-xs font-semibold text-neutral-500 uppercase tracking-[0.2em] mt-6 text-center leading-relaxed">
                Bewerbung als Praktikantin<br/>
-               im Bereich<br/>
-               Kommunikation & Medien
+               bei Antenne Mainz
              </p>
           </div>
 
           <div className="space-y-12">
              <Section>
-                <SectionHeader icon={<User className="w-5 h-5 text-[#C3141E]" />} title="Kontakt" />
+                <SectionHeader icon={<User className="w-5 h-5 text-[#e00040]" />} title="Kontakt" />
                 <div className="space-y-5 text-sm text-neutral-700">
                   <ContactRow icon={<Calendar className="w-4 h-4 text-neutral-400" />} text="03. Juli 2005" />
                   <ContactRow icon={<MapPin className="w-4 h-4 text-neutral-400" />} text={<>Ober-Saulheimer-Straße 1,<br/>55286 Wörrstadt</>} />
@@ -54,26 +53,26 @@ export default function App() {
              </Section>
 
              <Section>
-                <SectionHeader icon={<FileText className="w-5 h-5 text-[#C3141E]" />} title="Profil" />
+                <SectionHeader icon={<FileText className="w-5 h-5 text-[#e00040]" />} title="Profil" />
                 <p className="text-neutral-600 text-sm leading-relaxed">
                   Ich bin eine kreative, engagierte und teamfähige Studentin mit großem Interesse an journalistischer Arbeit und Kommunikationsarbeit sowie -strategien. Ich habe eine Leidenschaft für Medien, Recherchearbeit und für die Erstellung von Beiträgen.
                 </p>
              </Section>
 
              <Section>
-                <SectionHeader icon={<Globe className="w-5 h-5 text-[#C3141E]" />} title="Sprachen" />
+                <SectionHeader icon={<Globe className="w-5 h-5 text-[#e00040]" />} title="Sprachen" />
                 <div className="space-y-3 text-sm text-neutral-700">
                   <div className="flex justify-between items-center border-b border-neutral-200 pb-2">
                     <span className="font-medium">Deutsch</span>
-                    <span className="text-[#C3141E] font-semibold">Muttersprache</span>
+                    <span className="text-[#e00040] font-semibold">Muttersprache</span>
                   </div>
                   <div className="flex justify-between items-center border-b border-neutral-200 pb-2">
                     <span className="font-medium">Englisch</span>
-                    <span className="text-[#C3141E] font-semibold">B2</span>
+                    <span className="text-[#e00040] font-semibold">B2</span>
                   </div>
                   <div className="flex justify-between items-center pb-2">
                     <span className="font-medium">Spanisch</span>
-                    <span className="text-[#C3141E] font-semibold">B1</span>
+                    <span className="text-[#e00040] font-semibold">B1</span>
                   </div>
                 </div>
              </Section>
@@ -85,12 +84,12 @@ export default function App() {
         {/* Rechte Spalte: Main Content */}
         <div className="w-full md:w-[65%] p-10 md:p-16 relative">
           
-          {/* Mainz 05 Logo Top Right */}
+          {/* Antenne Mainz Logo Top Right */}
           <div className="absolute top-2 right-10 md:top-4 md:right-12 flex justify-end">
             <img 
-              src={mainz05Logo} 
-              alt="Mainz 05 Logo" 
-              className="w-12 md:w-14 h-auto object-contain mix-blend-multiply opacity-90" 
+              src={antenneMainzLogo} 
+              alt="Antenne Mainz Logo" 
+              className="w-24 md:w-28 h-auto object-contain mix-blend-multiply opacity-90" 
             />
           </div>
 
@@ -164,18 +163,17 @@ export default function App() {
         <div className="w-full md:w-[35%] bg-neutral-50 p-10 border-r border-neutral-200 flex flex-col relative print:after:content-[''] print:after:absolute print:after:top-full print:after:left-0 print:after:-right-[1px] print:after:h-[3000px] print:after:bg-neutral-50 print:after:border-r print:after:border-neutral-200 print:after:z-0">
           <div className="flex flex-col items-center mb-16">
              <h1 className="text-4xl font-extrabold text-neutral-900 tracking-tight text-center uppercase mt-6">
-               LEA <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#ED1C24] to-[#C3141E] inline-block">KOCH</span>
+               LEA <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#FF1E60] to-[#e00040] inline-block">KOCH</span>
              </h1>
              <p className="text-xs font-semibold text-neutral-500 uppercase tracking-[0.2em] mt-6 text-center leading-relaxed">
                Bewerbung als Praktikantin<br/>
-               im Bereich<br/>
-               Kommunikation & Medien
+               bei Antenne Mainz
              </p>
           </div>
 
           <div className="space-y-12">
              <Section>
-                <SectionHeader icon={<User className="w-5 h-5 text-[#C3141E]" />} title="Kontakt" />
+                <SectionHeader icon={<User className="w-5 h-5 text-[#e00040]" />} title="Kontakt" />
                 <div className="space-y-5 text-sm text-neutral-700">
                   <ContactRow icon={<Calendar className="w-4 h-4 text-neutral-400" />} text="03. Juli 2005" />
                   <ContactRow icon={<MapPin className="w-4 h-4 text-neutral-400" />} text={<>Ober-Saulheimer-Straße 1,<br/>55286 Wörrstadt</>} />
@@ -191,12 +189,12 @@ export default function App() {
         {/* Rechte Spalte: Main Content */}
         <div className="w-full md:w-[65%] p-10 md:p-16 relative">
           
-          {/* Mainz 05 Logo Top Right */}
+          {/* Antenne Mainz Logo Top Right */}
           <div className="absolute top-2 right-10 md:top-4 md:right-12 flex justify-end">
             <img 
-              src={mainz05Logo} 
-              alt="Mainz 05 Logo" 
-              className="w-12 md:w-14 h-auto object-contain mix-blend-multiply opacity-90" 
+              src={antenneMainzLogo} 
+              alt="Antenne Mainz Logo" 
+              className="w-24 md:w-28 h-auto object-contain mix-blend-multiply opacity-90" 
             />
           </div>
 
@@ -205,23 +203,23 @@ export default function App() {
             
             <div className="text-neutral-700 text-sm leading-relaxed space-y-5 print:text-[15px] print:leading-[1.9] print:space-y-8">
               <p>
-                <strong>1. FSV Mainz 05 e.V.</strong><br/>
-                Dr.-Martin-Luther-King-Weg 15<br/>
-                55122 Mainz
+                <strong>Radio Mainz Live Rundfunk GmbH</strong><br/>
+                Rheinstraße 43 - 45<br/>
+                55116 Mainz
               </p>
 
               <p className="text-right text-neutral-500">
-                Wörrstadt, den 14. Juni 2026
+                Wörrstadt, den 08. Juli 2026
               </p>
 
               <p className="font-bold text-neutral-900 pt-2">
-                Bewerbung als Praktikantin im Bereich Kommunikation & Medien
+                Bewerbung als Praktikantin bei Antenne Mainz
               </p>
 
-              <p className="pt-2">Sehr geehrter Herr Steines,</p>
+              <p className="pt-2">Sehr geehrte Damen und Herren,</p>
 
               <p>
-                eine große Leidenschaft für mich ist es, Kommunikation wirkungsvoll zu gestalten. Ob durch präzise Sprache, durchdachten Content oder strukturierte Medienarbeit. Die Verbindung aus strategischer Kommunikation und dem emotionalen Umfeld eines Bundesligavereins macht das Praktikum beim 1. FSV Mainz 05 für mich besonders reizvoll. Fußball begleitet mich seit meiner Kindheit durch mein familiäres Umfeld, und ich weiß, welche Begeisterung und Leidenschaft dieser Sport auslösen kann. Genau diese Energie möchte ich als Publizistikstudentin in die Kommunikations- und Medienarbeit der 05er einbringen. Für das Praktikum stehe ich in einem Zeitraum zwischen September 2026 und Februar 2027 für 6 bis 8 Wochen zur Verfügung.
+                Radio hat mich schon immer in meinem familiären Umfeld begleitet. Durch diesen alltäglichen Umgang mit dem Medium habe ich früh ein Gespür dafür entwickelt, wie Hörfunk Menschen in ihrer Region erreicht und informiert. Mit dem Radio verbinde ich daher Schnelligkeit, Nähe und Persönlichkeit. Genau diese Verbindung von journalistischer Arbeit und lokalem Bezug macht das Praktikum bei Antenne Mainz für mich so reizvoll. Für das Praktikum stehe ich in einem Zeitraum zwischen September 2026 und Februar 2027 für 6 bis 8 Wochen zur Verfügung.
               </p>
 
               <p>
@@ -229,7 +227,7 @@ export default function App() {
               </p>
 
               <p>
-                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum im Bereich Kommunikation & Medien als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische Erfahrungen in der Sportkommunikation und Medienarbeit zu ergänzen und zu vertiefen. 
+                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum im Bereich Kommunikation & Medien als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische Erfahrungen in der Radio- und Medienarbeit zu ergänzen und zu vertiefen. 
               </p>
 
               <p>
@@ -288,7 +286,7 @@ function SkillBar({ skill, level }: { skill: string; level: number }) {
       </div>
       <div className="w-full bg-neutral-200 h-1.5 rounded-full overflow-hidden">
         <div 
-          className="bg-[#C3141E] h-1.5 rounded-full" 
+          className="bg-[#e00040] h-1.5 rounded-full" 
           style={{ width: `${level}%` }}
         />
       </div>
@@ -301,7 +299,7 @@ function MainSectionTitle({ children, progressWidth = "w-12" }: { children: Reac
     <h2 className="text-2xl font-bold text-neutral-900 mb-8 flex items-center gap-4 uppercase tracking-wider">
       {children}
       <div className="h-0.5 bg-neutral-200 flex-1 rounded-full relative">
-        <div className={`absolute top-0 left-0 h-full bg-gradient-to-r from-[#ED1C24] to-[#C3141E] rounded-full ${progressWidth}`} />
+        <div className={`absolute top-0 left-0 h-full bg-gradient-to-r from-[#FF1E60] to-[#e00040] rounded-full ${progressWidth}`} />
       </div>
     </h2>
   );
@@ -321,12 +319,12 @@ function TimelineItem({
   return (
     <div className="relative">
       {/* Timeline Dot */}
-      <div className="absolute -left-[43px] top-1.5 w-[22px] h-[22px] rounded-full bg-red-50 border-4 border-white shadow-sm flex items-center justify-center">
-        <div className="w-2.5 h-2.5 rounded-full bg-[#C3141E]" />
+      <div className="absolute -left-[43px] top-1.5 w-[22px] h-[22px] rounded-full bg-rose-50 border-4 border-white shadow-sm flex items-center justify-center">
+        <div className="w-2.5 h-2.5 rounded-full bg-[#e00040]" />
       </div>
 
       <div className="mb-1">
-        <span className="text-[#C3141E] font-bold text-sm tracking-wide uppercase">{period}</span>
+        <span className="text-[#e00040] font-bold text-sm tracking-wide uppercase">{period}</span>
       </div>
       <h3 className="text-xl font-bold text-neutral-900 mb-1">{role}</h3>
       <h4 className="text-lg font-medium text-neutral-600 mb-4">{company}</h4>
