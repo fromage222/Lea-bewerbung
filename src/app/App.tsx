@@ -227,7 +227,7 @@ export default function App() {
               </p>
 
               <p>
-                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum im Bereich Kommunikation & Medien als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische Erfahrungen in der Radio- und Medienarbeit zu ergänzen und zu vertiefen. 
+                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische Erfahrungen in der Radio- und Medienarbeit zu ergänzen und zu vertiefen. 
               </p>
 
               <p>
