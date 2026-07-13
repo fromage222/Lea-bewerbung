@@ -203,7 +203,7 @@ export default function App() {
             
             <div className="text-neutral-700 text-sm leading-relaxed space-y-5 print:text-[15px] print:leading-[1.9] print:space-y-8">
               <p>
-                <strong>Eckes-Granini Group GmbH</strong><br/>
+                <strong>Eckes-Granini Deutschland GmbH</strong><br/>
                 Ludwig-Eckes-Platz 1<br/>
                 55268 Nieder-Olm
               </p>
