@@ -213,25 +213,25 @@ export default function App() {
               </p>
 
               <p className="font-bold text-neutral-900 pt-2">
-                Bewerbung als Praktikantin im Bereich Unternehmenskommunikation
+                Initiativbewerbung als Praktikantin bei Eckes-Granini
               </p>
 
               <p className="pt-2">Sehr geehrte Damen und Herren,</p>
 
               <p>
-                Fruchtsäfte und starke Marken begleiten mich schon seit meiner Kindheit im familiären Alltag. Als Publizistikstudentin fasziniert mich besonders, wie Eckes-Granini es schafft, durch emotionale Markenführung und gezielte Unternehmenskommunikation eine so enge Bindung zu Konsumentinnen und Konsumenten aufzubauen. Mit Ihren Marken verbinde ich Qualität, Lebensfreude und Innovation. Genau diese Verbindung aus strategischer Kommunikation und sympathischer Markenwelt macht das Praktikum bei Eckes-Granini für mich besonders reizvoll. Für das Praktikum stehe ich in einem Zeitraum zwischen September 2026 und Februar 2027 für 6 bis 8 Wochen zur Verfügung.
+                schon seit meiner Kindheit im familiären Alltag begleiten mich Ihre Fruchtsäfte. Als Publizistikstudentin fasziniert mich besonders, wie Eckes-Granini es schafft, durch emotionale Markenführung, gezieltes Social-Media-Marketing und strategische Kommunikation eine enge Bindung zu Konsumentinnen und Konsumenten aufzubauen. Ich möchte diese Markenwelt gerne aktiv mitgestalten, weswegen ein Praktikum in Ihrem Unternehmen in Nieder-Olm sehr reizvoll für mich ist. Dafür stehe ich zwischen September 2026 und Februar 2027 für 6 bis 8 Wochen zur Verfügung.
               </p>
 
               <p>
-                Bereits in meiner schulischen Laufbahn konnte ich aufgrund meines Leistungskurses Deutsch sowie meiner aktiven Beteiligung in der Schülervertretung wertvolle Kenntnisse in der Artikulation sammeln und stärken. Ebenfalls habe ich als studentische Hilfskraft im SWR Einblicke in journalistische sowie kommunikative Prozesse gewonnen. Meine entwickelten Interessen und Begabungen für wirkungsvolle Sprache, zuverlässige Recherchearbeit und strategische Kommunikation bereiten mir nicht nur viel Freude, sondern möchte ich diese nun auch neben meines Studiengangs Publizistik weiter bei Ihnen vertiefen.
+                Bereits in meiner schulischen Laufbahn konnte ich aufgrund meines Leistungskurses Deutsch sowie meiner aktiven Beteiligung in der Schülervertretung wertvolle Kenntnisse in der Artikulation sammeln und stärken. Ebenfalls habe ich als studentische Hilfskraft im SWR Einblicke in journalistische sowie kommunikative Prozesse gewonnen. Meine Interessen und Begabungen für wirkungsvolle Sprache, zuverlässige Recherchearbeit und strategische Kommunikation bereiten mir nicht nur viel Freude, sondern möchte ich diese nun auch neben meines Studiengangs Publizistik weiter bei Ihnen vertiefen.
               </p>
 
               <p>
-                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich das Praktikum als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische Erfahrungen in der Unternehmenskommunikation und PR-Arbeit zu ergänzen und zu vertiefen. 
+                Ich bin ein sehr ambitionierter und neugieriger Mensch, weswegen ich ein Praktikum bei Eckes-Granini als ideale Chance sehe, meine theoretischen Kenntnisse durch praktische Erfahrungen in Digital Marketing, Content Creation und Öffentlichkeitsarbeit zu ergänzen und zu vertiefen.
               </p>
 
               <p>
-                Über eine Einladung zu einem persönlichen Gespräch Ihrerseits freue ich mich sehr.
+                Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
               </p>
 
               <p className="pt-4">
